@@ -1,5 +1,6 @@
 # Trading-Recommendation-system
 Developed a deep learning model to recognize stock chart patterns and generate trading recommendations (Buy, Sell, Hold), utilizing image-based inputs instead of traditional numerical stock data.
+
 Deep Learning & Image Processing: Built a custom Convolutional Neural Network (CNN) architecture inspired by LeNet to process candlestick chart images. Implemented data loading, preprocessing, and normalization pipelines using OpenCV and TensorFlow.
 
 Model Development:
